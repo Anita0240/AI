@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+google-genai
+os
+catboost
+dill
+python-dotenv
+-e .
